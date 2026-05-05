@@ -5,7 +5,7 @@ Portfólio de dashboards desenvolvidos com Power BI e Looker. Aqui você encontr
 
 1. 🎧 Painel de Atendimento ao Cliente — GRALAB
 Ferramenta: Power BI
-Arquivo: GRALAB_Painel_de_Atendimento.pdf
+**Arquivo:** [`GRALAB___Painel_de_Atendimento_-_Monitor_Diário (2) (1)`](./nome-do-arquivo.pdf)
 Sobre o projeto:
 Dashboard operacional de monitoramento de atendimento ao cliente para o período de outubro de 2025. Desenvolvido para acompanhar o desempenho da equipe em tempo real.
 Principais métricas e análises:
@@ -27,7 +27,7 @@ Tabela detalhada com cruzamento de data × colaborador × assunto
 
 2. 📣 Análise de Campanhas de Marketing — Visão Cliente
 Ferramenta: Power BI
-Arquivo: Campanha_de_Marketing.pdf
+Arquivo: **Arquivo:** [`Campanha de Marketing`](./nome-do-arquivo.pdf)
 Sobre o projeto:
 Relatório completo de análise de campanhas de marketing com 4 visões distintas: perfil de clientes, comportamento de compra, performance das campanhas e padrões por ponto de venda.
 Páginas do relatório:
